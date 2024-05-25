@@ -20,6 +20,6 @@ main h1{
 }
 
 article{
-    background-image: url(imagens/cafe-22873741.jpeg);
     background: url(imagens/cafe-22873741.jpeg) center cover no-repeat fixed ;
+    height: 100vh;
 }
